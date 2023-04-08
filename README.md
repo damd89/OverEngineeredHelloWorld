@@ -26,10 +26,11 @@ We're talking about using all the design patterns, creating unnecessary classes,
 
 Need some inspiration? Here are just a few of the ways that developers have said "Hello, world!" in the past:
 
-A "Hello, world!" framework with multiple layers of abstraction.
-A "Hello, world!" app that uses Core Data to store the message.
-A "Hello, world!" command-line tool that uses reactive programming.
-A "Hello, world!" app that uses machine learning to determine the best way to say "Hello, world!" based on the user's location.
-Conclusion
+ - A "Hello, world!" framework with multiple layers of abstraction.
+ - A "Hello, world!" app that uses Core Data to store the message.
+ - A "Hello, world!" command-line tool that uses reactive programming.
+ - A "Hello, world!" app that uses machine learning to determine the best way to say "Hello, world!" based on the user's location.
+
+## Conclusion
 
 Thanks for stopping by the Over-Engineered Hello World Project! We can't wait to see what crazy and over-engineered ways you come up with to say "Hello, world!" in Swift. Happy coding!

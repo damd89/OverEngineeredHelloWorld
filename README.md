@@ -1,4 +1,3 @@
-# OverEngineeredHelloWorld
 # Welcome to the Over-Engineered Hello World Project!
 
 Congratulations on finding your way to this repository! Here, we celebrate the simple act of saying "Hello, world!" in the most complex and over-engineered ways possible. We're talking about an abundance of abstraction, encapsulation, and modularization.

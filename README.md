@@ -1,15 +1,15 @@
 # OverEngineeredHelloWorld
-#Welcome to the Over-Engineered Hello World Project!
+# Welcome to the Over-Engineered Hello World Project!
 
 Congratulations on finding your way to this repository! Here, we celebrate the simple act of saying "Hello, world!" in the most complex and over-engineered ways possible. We're talking about an abundance of abstraction, encapsulation, and modularization.
 
-##What is Hello World?
+## What is Hello World?
 
 In the world of software development, "Hello, world!" is the traditional first program that a developer writes when learning a new language. It's a simple program that prints out the phrase "Hello, world!" to the console.
 
 But where's the fun in that? Here at the Over-Engineered Hello World Project, we take things to the next level.
 
-##Contributing
+## Contributing
 
 We welcome all contributions to this project! If you have an idea for an even more over-engineered way to say "Hello, world!", don't hesitate to submit a pull request.
 
@@ -21,7 +21,7 @@ It must print out the phrase "Hello, world!" to the console.
 It must be as over-engineered as possible.
 We're talking about using all the design patterns, creating unnecessary classes, and just generally making things more complicated than they need to be.
 
-##Examples
+## Examples
 
 Need some inspiration? Here are just a few of the ways that developers have said "Hello, world!" in the past:
 

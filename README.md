@@ -15,10 +15,11 @@ We welcome all contributions to this project! If you have an idea for an even mo
 
 Just make sure that your code adheres to the following principles:
 
-It must be written in Swift.
-It must compile without errors.
-It must print out the phrase "Hello, world!" to the console.
-It must be as over-engineered as possible.
+ - It must be written in Swift.
+ - It must compile without errors.
+ - It must print out the phrase "Hello, world!" to the console.
+ - It must be as over-engineered as possible.
+ 
 We're talking about using all the design patterns, creating unnecessary classes, and just generally making things more complicated than they need to be.
 
 ## Examples
